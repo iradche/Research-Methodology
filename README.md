@@ -20,9 +20,13 @@
 
 
 ### Обзор курса
-
 1. Введение. [Опорная таблица](https://docs.google.com/spreadsheets/d/1esUGNvziQveAX_jJ41M6-TA5O0jOCthemr3i8-suitw/edit#gid=0).     
-2. [Лекция №2](https://github.com/iradche/Research-Methodology/blob/main/lectures/Lecture02_ITMO_RM.pdf).   
+2. [Лекция №2](https://github.com/iradche/Research-Methodology/blob/main/lectures/Lecture02_ITMO_RM.pdf).     
+
+
+### Записи лекций
+1. Лекция №1: [Первая часть](https://youtu.be/JdJHmXgNrLI) и [вторая часть](https://youtu.be/qmRyiNVfAGg).     
+2. Лекция №2: [Первая часть](https://youtu.be/W3VSN_2I5yM) и [вторая часть](https://youtu.be/wgbjLNKvl8o).     
 
 
 ### Опросы 
