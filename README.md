@@ -29,7 +29,8 @@
 
 ### Записи лекций
 1. Лекция №1: [Первая часть](https://youtu.be/JdJHmXgNrLI) и [вторая часть](https://youtu.be/qmRyiNVfAGg).     
-2. Лекция №2: [Первая часть](https://youtu.be/W3VSN_2I5yM) и [вторая часть](https://youtu.be/wgbjLNKvl8o).     
+2. Лекция №2: [Первая часть](https://youtu.be/W3VSN_2I5yM) и [вторая часть](https://youtu.be/wgbjLNKvl8o).   
+3. Лекция №3: см. [Лекция №3](https://github.com/iradche/Research-Methodology/blob/main/lectures/lec03.md).
 
 
 ### Опросы 
