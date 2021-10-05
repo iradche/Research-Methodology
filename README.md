@@ -33,6 +33,7 @@
 2. Лекция №2: [Первая часть](https://youtu.be/W3VSN_2I5yM) и [вторая часть](https://youtu.be/wgbjLNKvl8o).   
 3. Лекция №3: см. [Лекция №3](https://github.com/iradche/Research-Methodology/blob/main/lectures/lec03.md).     
 4. Лекция №4: см. [Лекция №4](https://github.com/iradche/Research-Methodology/blob/main/lectures/lec04.md).     
+5. Лекция №5: см. [Лекция №5](https://github.com/iradche/Research-Methodology/blob/main/lectures/lec05.md).       
 
 
 ### Опросы 
