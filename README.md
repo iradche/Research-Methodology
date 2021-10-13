@@ -27,7 +27,7 @@
 3. [Лекция №3](https://github.com/iradche/Research-Methodology/blob/main/lectures/lec03.md).    
 4. [Лекция №4](https://github.com/iradche/Research-Methodology/blob/main/lectures/lec04.md).     
 5. [Лекция №5](https://github.com/iradche/Research-Methodology/blob/main/lectures/lec05.md).    
-6. [Лекция №6](https://github.com/iradche/Research-Methodology/blob/main/lectures/lec06.md).      
+6. [Лекция №6](https://github.com/iradche/Research-Methodology/blob/main/lectures/lec06.md).         
 
 
 ### Записи лекций
@@ -35,7 +35,8 @@
 2. Лекция №2: [Первая часть](https://youtu.be/W3VSN_2I5yM) и [вторая часть](https://youtu.be/wgbjLNKvl8o).   
 3. Лекция №3: см. [Лекция №3](https://github.com/iradche/Research-Methodology/blob/main/lectures/lec03.md).     
 4. Лекция №4: см. [Лекция №4](https://github.com/iradche/Research-Methodology/blob/main/lectures/lec04.md).     
-5. Лекция №5: см. [Лекция №5](https://github.com/iradche/Research-Methodology/blob/main/lectures/lec05.md).       
+5. Лекция №5: см. [Лекция №5](https://youtu.be/x2KTze2bDP8).      
+6. Лекция №6: см. [Лекция №6](https://youtu.be/2IsnIopYJV8).
 
 
 ### Опросы 
