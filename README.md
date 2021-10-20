@@ -38,6 +38,7 @@
 4. Лекция №4: см. [Лекция №4](https://github.com/iradche/Research-Methodology/blob/main/lectures/lec04.md).     
 5. Лекция №5: см. [Лекция №5](https://youtu.be/x2KTze2bDP8).      
 6. Лекция №6: см. [Лекция №6](https://youtu.be/2IsnIopYJV8).
+7. Лекция №7: см. [Лекция №6](https://youtu.be/ophjDmMInjU).
 
 
 ### Опросы 
