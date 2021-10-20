@@ -28,6 +28,7 @@
 4. [Лекция №4](https://github.com/iradche/Research-Methodology/blob/main/lectures/lec04.md).     
 5. [Лекция №5](https://github.com/iradche/Research-Methodology/blob/main/lectures/lec05.md).    
 6. [Лекция №6](https://github.com/iradche/Research-Methodology/blob/main/lectures/lec06.md).         
+6. [Лекция №7](https://github.com/iradche/Research-Methodology/blob/main/lectures/lec07.md).         
 
 
 ### Записи лекций
