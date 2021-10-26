@@ -45,6 +45,18 @@
 - [Предварительный опросник](https://forms.gle/ss3LEoxCqwi2Sv7h6).         
 
 
+### Задания    
+1. Выступить с докладом по теме из [опорной таблицы](https://docs.google.com/spreadsheets/d/1esUGNvziQveAX_jJ41M6-TA5O0jOCthemr3i8-suitw/edit#gid=747400772) и презентацией.	       
+2. Пройти курс "МНИ и котики" на Coursera: 	https://www.coursera.org/learn/metodologiya-nauchnyh-issledovanij-kotiki/.           
+3. Сделать четыре Диаграммы UML:
+- Диаграмму прецедентов.
+- Диаграмму деятельности.
+- Диаграмму последовательности.
+- Диаграмму классов или диаграмму состояний.
+4. Написать реферат по заданной теме (совпадает с темой доклада).           
+
+
+
 Критерии оценивания заданий [можно посмотреть здесь](https://docs.google.com/spreadsheets/d/e/2PACX-1vQO3gAIKeZNoPl7xZu9CdR-SFiKAuUEwkP3gUdTw4cjeNAjgtleOFBLFNlUAV5wlu4jkovfBEcEZc80/pubhtml).
 
 
